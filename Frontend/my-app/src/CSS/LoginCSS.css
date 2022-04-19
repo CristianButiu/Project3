@@ -1,0 +1,18 @@
+form {
+    padding-top: 40px;
+  }
+  
+  label {
+    color: blue;
+    padding-right: 8px;
+  }
+  
+  .fill {
+    border-radius: 30px;
+  }
+  
+  .submito {
+    border-radius: 30px;
+    cursor: pointer;
+  }
+  
